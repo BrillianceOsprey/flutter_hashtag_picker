@@ -21,6 +21,8 @@ class MyApp extends StatelessWidget {
 }
 
 class HashtagDemoPage extends StatefulWidget {
+  const HashtagDemoPage({super.key});
+
   @override
   State<HashtagDemoPage> createState() => _HashtagDemoPageState();
 }

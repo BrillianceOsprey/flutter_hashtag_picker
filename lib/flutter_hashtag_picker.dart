@@ -75,7 +75,6 @@ class _HashtagPickerState extends State<HashtagPicker> {
           border: BorderSide.none,
         );
       case HashtagStyle.style1:
-      default:
         return _HashtagChipStyle(
           chipColor: selected ? Colors.purple : Colors.purple[50]!,
           textStyle: TextStyle(
