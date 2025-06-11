@@ -3,7 +3,7 @@ description: >
   A customizable Flutter widget for picking hashtags, with four built-in styles (purple, green, blue outline, orange pill). 
   Easily integrate hashtag selection in your social, productivity, or content creation apps.
 
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/BrillianceOsprey/flutter_hashtag_picker
 repository: https://github.com/BrillianceOsprey/flutter_hashtag_picker
 issue_tracker: https://github.com/BrillianceOsprey/flutter_hashtag_picker/issues
