@@ -1,8 +1,10 @@
 # flutter_hashtag_picker
 
+[![pub package](https://img.shields.io/pub/v/flutter_hashtag_picker.svg)](https://pub.dev/packages/flutter_hashtag_picker)
+
 A customizable Flutter widget for picking hashtags—ideal for social, productivity, or content creation apps.
 
-![Demo of flutter_hashtag_picker](https://your-demo-image-link-here.gif)
+![Demo of flutter_hashtag_picker](https://otaku-world-mm.sgp1.digitaloceanspaces.com/videos/photo_6217555251268012376_y.jpg)
 
 ## Features
 
@@ -12,11 +14,9 @@ A customizable Flutter widget for picking hashtags—ideal for social, productiv
 
 ## Quick Start
 
-```dart
-HashtagPicker(
-  hashtags: ['Flutter', 'Dart', 'AI'],
-  hashtagsStyle: HashtagStyle.style2,
-  onChanged: (selectedTags) {
-    print(selectedTags);
-  },
-)
+To get started, add the `flutter_hashtag_picker` package to your `pubspec.yaml`:
+
+```yaml
+dependencies:
+  flutter_hashtag_picker: ^0.0.1
+
